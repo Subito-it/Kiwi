@@ -10,7 +10,7 @@
 #import "KWMatchVerifier.h"
 #import "KWProbe.h"
 
-#define kKW_DEFAULT_PROBE_TIMEOUT 5.0
+#define kKW_DEFAULT_PROBE_TIMEOUT 10.0
 
 @class KWAsyncMatcherProbe;
 
